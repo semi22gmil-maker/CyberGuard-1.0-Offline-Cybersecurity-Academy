@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">سايبر جارد</string>
+    <string name="app_tagline">أكاديمية الأمن السيبراني دون اتصال</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_learn">المسارات</string>
+    <string name="nav_challenges">التحديات</string>
+    <string name="nav_radar">رادار التهديدات</string>
+    <string name="nav_lab">مختبر الأمان</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="level_prefix">المستوى %1$d</string>
+    <string name="xp_format">%1$d نقطة خبرة</string>
+    <string name="action_continue">متابعة التعلم</string>
+    <string name="daily_challenge">التحدي اليومي التكتيكي</string>
+    <string name="streak_days">%1$d أيام متتالية</string>
+    <string name="accuracy">الدقة</string>
+    <string name="completed">مكتمل</string>
+    <string name="lessons">الدروس</string>
+    <string name="quizzes">الاختبارات</string>
+    <string name="achievements">الإنجازات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="export_data">تصدير التقدم (JSON)</string>
+    <string name="import_data">استيراد التقدم (JSON)</string>
+    <string name="reset_progress">إعادة ضبط سجل التعلم</string>
+    <string name="reset_confirm">هل أنت متأكد؟ سيتم إعادة ضبط جميع نقاط الخبرة والتقدم. ستبقى المناهج التعليمية محفوظة دون تغيير.</string>
+</resources>
